@@ -1,5 +1,6 @@
 /.idea/
 .DS_Store
+nb-cache
 /viikko4/MockitoDemo/.gradle/
 /viikko4/MockitoDemo/build/
 /viikko4/MaksukorttiMockito/.gradle/
@@ -11,3 +12,4 @@
 /viikko4/Tennis/.gradle/
 /viikko4/Tennis/build/
 /viikko6/QueryLanguage/build/
+/viikko7/KiviPaperiSakset/build/
